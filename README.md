@@ -1,5 +1,5 @@
 Project Name: ThriftNet
-URL of the sites homepage: www.ThriftNet.com
+URL of the sites homepage:https://tb-1111.github.io/
 
 Main Topic of the Project Web Site:
 The main topic of the ThriftNet websites is to provide an environmental-friendly free social space online for thrifters of all ages. The site's purpose is to offer an open market of a wide range of items including freebies, collectables, vintage trinkets, trendy clothing, jewelry, shoes, household items, books, toys, and more to keep the world of thrifting on one network to share, trade, and buy one of kind finds.
